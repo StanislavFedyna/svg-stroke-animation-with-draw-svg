@@ -1,8 +1,10 @@
 body {
-  background: #673ab7;
+  background: black;
 }
 
+
 svg {
+  width: 35%;
   position: fixed;
   top: 0;
   left: 0;
